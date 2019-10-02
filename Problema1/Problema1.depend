@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1425800775 source:c:\users\i5\desktop\c++\problema1\main.cpp
-	<iostream>
-	<cstdio>
-	<cmath>
-	<algorithm>
-	<cstring>
-
