@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512728137 source:c:\users\gabi\desktop\c++\invers modular\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<algorithm>
+

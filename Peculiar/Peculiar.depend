@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1423763656 source:c:\users\i5\desktop\c++\peculiar\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

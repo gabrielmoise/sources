@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1427827173 source:c:\users\i5\desktop\c++\triunghi3\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

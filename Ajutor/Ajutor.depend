@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425657176 source:c:\users\i5\desktop\c++\ajutor\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

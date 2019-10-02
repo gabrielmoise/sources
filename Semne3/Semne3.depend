@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1420577619 source:c:\users\i5\desktop\c++\semne3\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

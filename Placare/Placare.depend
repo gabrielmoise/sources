@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1420375140 source:c:\users\i5\desktop\c++\placare\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+
